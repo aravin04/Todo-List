@@ -1,1 +1,1 @@
-# Todo-List
+This is a simple web application I created using HTML, CSS and JavaScript where users can easily add and delete tasks on their todo list. I created this app during my free time to help me stay organized throughout the school year and successfully manage my schoolwork and my extracurriculars.
